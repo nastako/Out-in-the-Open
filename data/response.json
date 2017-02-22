@@ -1,0 +1,4959 @@
+{
+  u
+  'totalpages': 1522,
+  u
+  'currentpage': 1,
+  u
+  'athletes': [
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Phil Marks',
+      u
+      'weight': u
+      '194 lb',
+      u
+      'region': u
+      'South East',
+      u
+      'regionid': u
+      '15',
+      u
+      'userid': u
+      '505699',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit 813',
+      u
+      'affiliateid': u
+      '2370',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 23
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Joel Willard',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Australia',
+      u
+      'regionid': u
+      '3',
+      u
+      'userid': u
+      '979748',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Horizons',
+      u
+      'affiliateid': u
+      '374',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 18
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Lucas Hazel',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Australia',
+      u
+      'regionid': u
+      '3',
+      u
+      'userid': u
+      '942263',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Armidale',
+      u
+      'affiliateid': u
+      '3579',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Brad Hettervik',
+      u
+      'weight': u
+      '150 lb',
+      u
+      'region': u
+      'Northern California',
+      u
+      'regionid': u
+      '12',
+      u
+      'userid': u
+      '979435',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'NorCal CrossFit Redwood City',
+      u
+      'affiliateid': u
+      '5062',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'9"',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Leonardo Fraporti',
+      u
+      'weight': u
+      '93 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '663824',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Megaton',
+      u
+      'affiliateid': u
+      '12128',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '186 cm',
+      u
+      'age': 22
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Allen Havens',
+      u
+      'weight': u
+      '165 lb',
+      u
+      'region': u
+      'Asia',
+      u
+      'regionid': u
+      '2',
+      u
+      'userid': u
+      '979742',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Osan',
+      u
+      'affiliateid': u
+      '1678',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'11"',
+      u
+      'age': 27
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Jeff Warner',
+      u
+      'weight': u
+      '344 lb',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '979743',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Manitowoc',
+      u
+      'affiliateid': u
+      '3791',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'5"',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/da021-P342943_3-184.jpg',
+      u
+      'name': u
+      'Luis Ascanio Flores',
+      u
+      'weight': u
+      '74 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '342943',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Snaga Lindora',
+      u
+      'affiliateid': u
+      '9468',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '175 cm',
+      u
+      'age': 23
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Jake Underwood',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Central East',
+      u
+      'regionid': u
+      '6',
+      u
+      'userid': u
+      '979736',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Zionsville',
+      u
+      'affiliateid': u
+      '5213',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 39
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Kurt Boustead',
+      u
+      'weight': u
+      '225 lb',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '712026',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Viral',
+      u
+      'affiliateid': u
+      '9600',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'10"',
+      u
+      'age': 38
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Geoffrey Ocampo',
+      u
+      'weight': u
+      '225 lb',
+      u
+      'region': u
+      'Southern California',
+      u
+      'regionid': u
+      '16',
+      u
+      'userid': u
+      '949161',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Pacesetter CrossFit',
+      u
+      'affiliateid': u
+      '14988',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 31
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/fca3d-P137085_2-184.jpg',
+      u
+      'name': u
+      'Jason Reynen',
+      u
+      'weight': u
+      '195 lb',
+      u
+      'region': u
+      'Canada West',
+      u
+      'regionid': u
+      '5',
+      u
+      'userid': u
+      '137085',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Beach City CrossFit',
+      u
+      'affiliateid': u
+      '7529',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '184 cm',
+      u
+      'age': 33
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Howard Luchinsky',
+      u
+      'weight': u
+      '170 lb',
+      u
+      'region': u
+      'Central East',
+      u
+      'regionid': u
+      '6',
+      u
+      'userid': u
+      '308623',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Hines Park CrossFit',
+      u
+      'affiliateid': u
+      '4913',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'10"',
+      u
+      'age': 47
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/95ae1-P30669_5-184.jpg',
+      u
+      'name': u
+      'Cory Bullock',
+      u
+      'weight': u
+      '175 lb',
+      u
+      'region': u
+      'South Central',
+      u
+      'regionid': u
+      '14',
+      u
+      'userid': u
+      '30669',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Clear Lake CrossFit',
+      u
+      'affiliateid': u
+      '10560',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'10"',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Nicholas Lizarazo',
+      u
+      'weight': u
+      '150 lb',
+      u
+      'region': u
+      'North East',
+      u
+      'regionid': u
+      '11',
+      u
+      'userid': u
+      '326237',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'BlackHearts CrossFit',
+      u
+      'affiliateid': u
+      '4280',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 26
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/bb62f-P41694_2-184.jpg',
+      u
+      'name': u
+      'Charles Callis',
+      u
+      'weight': u
+      '190 lb',
+      u
+      'region': u
+      'Mid Atlantic',
+      u
+      'regionid': u
+      '9',
+      u
+      'userid': u
+      '41694',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Reebok CrossFit Charlotte Uptown',
+      u
+      'affiliateid': u
+      '7438',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'0"',
+      u
+      'age': 47
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/c5f2d-P302771_2-184.jpg',
+      u
+      'name': u
+      'Eddy Espiritu',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'North East',
+      u
+      'regionid': u
+      '11',
+      u
+      'userid': u
+      '302771',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Bravo CrossFit',
+      u
+      'affiliateid': u
+      '336',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 26
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/d58bb-P123250_2-184.jpg',
+      u
+      'name': u
+      'David Danaher',
+      u
+      'weight': u
+      '170 lb',
+      u
+      'region': u
+      'South West',
+      u
+      'regionid': u
+      '17',
+      u
+      'userid': u
+      '123250',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Castle Rock',
+      u
+      'affiliateid': u
+      '638',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'7"',
+      u
+      'age': 25
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Sean Anderson',
+      u
+      'weight': u
+      '200 lb',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '30929',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Nerve',
+      u
+      'affiliateid': u
+      '17882',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'7"',
+      u
+      'age': 28
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Leigh Paul',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Australia',
+      u
+      'regionid': u
+      '3',
+      u
+      'userid': u
+      '715817',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Cranbourne',
+      u
+      'affiliateid': u
+      '5391',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 27
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Howard Lebron',
+      u
+      'weight': u
+      '175 lb',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '978761',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit 1202',
+      u
+      'affiliateid': u
+      '13157',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'8"',
+      u
+      'age': 22
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Heimana Johnston',
+      u
+      'weight': u
+      '72 kg',
+      u
+      'region': u
+      'Australia',
+      u
+      'regionid': u
+      '3',
+      u
+      'userid': u
+      '295311',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Unaffiliated',
+      u
+      'affiliateid': u
+      '0',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '170 cm',
+      u
+      'age': 32
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Tj Brewster',
+      u
+      'weight': u
+      '165 lb',
+      u
+      'region': u
+      'North West',
+      u
+      'regionid': u
+      '13',
+      u
+      'userid': u
+      '978689',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Belgrade',
+      u
+      'affiliateid': u
+      '13146',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 32
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Fabian Muljono',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Canada West',
+      u
+      'regionid': u
+      '5',
+      u
+      'userid': u
+      '726808',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit 604',
+      u
+      'affiliateid': u
+      '3757',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 31
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Eduardo Guerra',
+      u
+      'weight': u
+      '90 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '972834',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit 5 Triple 9',
+      u
+      'affiliateid': u
+      '8278',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '175 cm',
+      u
+      'age': 20
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/aca9e-P979702_1-184.jpg',
+      u
+      'name': u
+      'Reginald Atkinson',
+      u
+      'weight': u
+      '185 lb',
+      u
+      'region': u
+      'South West',
+      u
+      'regionid': u
+      '17',
+      u
+      'userid': u
+      '979702',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Raw Appeal',
+      u
+      'affiliateid': u
+      '11124',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'9"',
+      u
+      'age': 31
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/b0b09-P979719_1-184.jpg',
+      u
+      'name': u
+      'Renan Teixeira',
+      u
+      'weight': u
+      '78 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '979719',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Americana',
+      u
+      'affiliateid': u
+      '13155',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '175 cm',
+      u
+      'age': 25
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/9367c-P441662_2-184.jpg',
+      u
+      'name': u
+      'Justin Upchurch',
+      u
+      'weight': u
+      '214 lb',
+      u
+      'region': u
+      'Northern California',
+      u
+      'regionid': u
+      '12',
+      u
+      'userid': u
+      '441662',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Training Hall CrossFit',
+      u
+      'affiliateid': u
+      '17790',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'10"',
+      u
+      'age': 37
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Rocky Delgadillo',
+      u
+      'weight': u
+      '219 lb',
+      u
+      'region': u
+      'Northern California',
+      u
+      'regionid': u
+      '12',
+      u
+      'userid': u
+      '979717',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit VCP',
+      u
+      'affiliateid': u
+      '14044',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 42
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Bryan Vance',
+      u
+      'weight': u
+      '172 lb',
+      u
+      'region': u
+      'South East',
+      u
+      'regionid': u
+      '15',
+      u
+      'userid': u
+      '524500',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Nullis Terminis',
+      u
+      'affiliateid': u
+      '16805',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'9"',
+      u
+      'age': 42
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Ostin Johnson',
+      u
+      'weight': u
+      '185 lb',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '807203',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Complete West',
+      u
+      'affiliateid': u
+      '14301',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'0"',
+      u
+      'age': 26
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/e6623-P979669_1-184.jpg',
+      u
+      'name': u
+      'Adam Collins',
+      u
+      'weight': u
+      '193 lb',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '979669',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Chiron',
+      u
+      'affiliateid': u
+      '7903',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'0"',
+      u
+      'age': 28
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/6ca74-P671214_2-184.jpg',
+      u
+      'name': u
+      'Javier Moreno',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '671214',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Tuluka Nu\xf1ez',
+      u
+      'affiliateid': u
+      '4228',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 32
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/8d4da-P37101_2-184.jpg',
+      u
+      'name': u
+      'Trevor Palmer',
+      u
+      'weight': u
+      '190 lb',
+      u
+      'region': u
+      'South East',
+      u
+      'regionid': u
+      '15',
+      u
+      'userid': u
+      '37101',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'South Orlando CrossFit',
+      u
+      'affiliateid': u
+      '2198',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'1"',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Jonathan Berryhill',
+      u
+      'weight': u
+      '240 lb',
+      u
+      'region': u
+      'South Central',
+      u
+      'regionid': u
+      '14',
+      u
+      'userid': u
+      '954394',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Blue Steel CrossFit',
+      u
+      'affiliateid': u
+      '10587',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '6\'0"',
+      u
+      'age': 27
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Fabricio Vieira',
+      u
+      'weight': u
+      '94 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '657393',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit G\xe1vea',
+      u
+      'affiliateid': u
+      '17407',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '178 cm',
+      u
+      'age': 31
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Bretton Labash',
+      u
+      'weight': u
+      '160 lb',
+      u
+      'region': u
+      'Canada West',
+      u
+      'regionid': u
+      '5',
+      u
+      'userid': u
+      '554664',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Badlands CrossFit',
+      u
+      'affiliateid': u
+      '417',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'11"',
+      u
+      'age': 16
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/740b0-P699219_2-184.jpg',
+      u
+      'name': u
+      'Lucas Richmond',
+      u
+      'weight': u
+      '188 lb',
+      u
+      'region': u
+      'South West',
+      u
+      'regionid': u
+      '17',
+      u
+      'userid': u
+      '699219',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Fort Collins CrossFit',
+      u
+      'affiliateid': u
+      '10154',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'10"',
+      u
+      'age': 37
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Joel Stephens',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Northern California',
+      u
+      'regionid': u
+      '12',
+      u
+      'userid': u
+      '723562',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Anywhere',
+      u
+      'affiliateid': u
+      '2807',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 27
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/ca446-P809330_1-184.jpg',
+      u
+      'name': u
+      'Michael Hale',
+      u
+      'weight': u
+      '225 lb',
+      u
+      'region': u
+      'North East',
+      u
+      'regionid': u
+      '11',
+      u
+      'userid': u
+      '809330',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Unaffiliated',
+      u
+      'affiliateid': u
+      '0',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 34
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Graham Swanepoel',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'North Central',
+      u
+      'regionid': u
+      '10',
+      u
+      'userid': u
+      '696024',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit St. Louis',
+      u
+      'affiliateid': u
+      '2379',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 29
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Adam Kurtz',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Central East',
+      u
+      'regionid': u
+      '6',
+      u
+      'userid': u
+      '780652',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Uncommon',
+      u
+      'affiliateid': u
+      '4241',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 31
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/d3851-P744604_1-184.jpg',
+      u
+      'name': u
+      'Agust\xedn Haddad',
+      u
+      'weight': u
+      '80 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '744604',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'RM CrossFit',
+      u
+      'affiliateid': u
+      '7669',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '175 cm',
+      u
+      'age': 21
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/b7beb-P515816_2-184.jpg',
+      u
+      'name': u
+      'Stefano Tosi',
+      u
+      'weight': u
+      '171 lb',
+      u
+      'region': u
+      'Europe',
+      u
+      'regionid': u
+      '7',
+      u
+      'userid': u
+      '515816',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Suzzara',
+      u
+      'affiliateid': u
+      '8866',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'9"',
+      u
+      'age': 29
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Alexandre Damasceno',
+      u
+      'weight': u
+      '205 lb',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '303946',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'KOR CrossFit',
+      u
+      'affiliateid': u
+      '3951',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '186 cm',
+      u
+      'age': 24
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/ddaf3-P193411_3-184.jpg',
+      u
+      'name': u
+      'Steven Cerenzio',
+      u
+      'weight': u
+      '165 lb',
+      u
+      'region': u
+      'South East',
+      u
+      'regionid': u
+      '15',
+      u
+      'userid': u
+      '193411',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Unaffiliated',
+      u
+      'affiliateid': u
+      '0',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'7"',
+      u
+      'age': 28
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/8094e-P466455_3-184.jpg',
+      u
+      'name': u
+      'Lucas Viana',
+      u
+      'weight': u
+      '70 kg',
+      u
+      'region': u
+      'Latin America',
+      u
+      'regionid': u
+      '8',
+      u
+      'userid': u
+      '466455',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Central Do Corpo',
+      u
+      'affiliateid': u
+      '12379',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '169 cm',
+      u
+      'age': 24
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/7eaef-P307581_1-184.jpg',
+      u
+      'name': u
+      'Brian Ratliff',
+      u
+      'weight': u
+      '175 lb',
+      u
+      'region': u
+      'Mid Atlantic',
+      u
+      'regionid': u
+      '9',
+      u
+      'userid': u
+      '307581',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'Rocktown CrossFit',
+      u
+      'affiliateid': u
+      '5615',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'8"',
+      u
+      'age': 36
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Jeremy Hughes',
+      u
+      'weight': u
+      '180 lb',
+      u
+      'region': u
+      'Canada East',
+      u
+      'regionid': u
+      '4',
+      u
+      'userid': u
+      '979687',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Quispamsis',
+      u
+      'affiliateid': u
+      '3240',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '5\'11"',
+      u
+      'age': 26
+    },
+    {
+      u
+      'division': 1,
+      u
+      'profilepic': u
+      '//profilepicsbucket.crossfit.com/pukie.png',
+      u
+      'name': u
+      'Ammar Janif',
+      u
+      'weight': u
+      '--',
+      u
+      'region': u
+      'Australia',
+      u
+      'regionid': u
+      '3',
+      u
+      'userid': u
+      '979691',
+      u
+      'overallscore': u
+      '--',
+      u
+      'overallrank': u
+      '--',
+      u
+      'affiliate': u
+      'CrossFit Cranbourne',
+      u
+      'affiliateid': u
+      '5391',
+      u
+      'scores': [
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        },
+        {
+          u
+          'scoreid': u
+          '--',
+          u
+          'workoutrank': u
+          '--',
+          u
+          'workoutresult': u
+          '--'
+        }
+      ],
+      u
+      'highlight': 0,
+      u
+      'height': u
+      '--',
+      u
+      'age': 31
+    }
+  ]
+}

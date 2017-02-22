@@ -1,0 +1,299 @@
+{% import "bootstrap/wtf.html" as wtf %}
+{% extends "base.html" %}
+
+
+{% block content %}
+<div class="container-fluid">
+
+
+    <div class="col-sm-12">
+        <h1 class="page-header">Athlete Insights</h1>
+    </div>
+
+    <div class="row">
+        <div>
+            <div class="col-md-10">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Athlete Info</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <table class="table table-striped">
+                                    <h4>Athlete</h4>
+                                    <tbody>
+                                    <tr>
+                                        <td>Name</td>
+                                        <td>{{ athlete.name }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Region</td>
+                                        <td>{{ athlete.region }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Affiliate</td>
+                                        <td>{{ athlete.affiliate }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Team</td>
+                                        <td>{{ athlete.team }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-2">
+                                <table class="table table-striped">
+                                    <h4>Basic Info</h4>
+                                    <tbody>
+                                    <tr>
+                                        <td>Height</td>
+                                        <td>{{ athlete.height }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Weight</td>
+                                        <td>{{ athlete.weight }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Age</td>
+                                        <td>{{ athlete.age }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gender</td>
+                                        <td>{{ athlete.gender }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-3">
+                                <table class="table table-striped">
+                                    <h4>Benchmarks</h4>
+                                    <tbody>
+                                    <tr>
+                                        <td>Back Squat</td>
+                                        <td>{{ athlete.backsq }} lbs</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Clean and Jerk</td>
+                                        <td>{{ athlete.candj }} lbs</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Snatch</td>
+                                        <td>{{ athlete.snatch }} lbs</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Deadlift</td>
+                                        <td>{{ athlete.deadlift }} lbs</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-2">
+                                <table class="table table-striped">
+                                    <h4>...</h4>
+                                    <tbody>
+                                    <tr>
+                                        <td>FGB</td>
+                                        <td>{{ athlete.fgonebad }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pullups</td>
+                                        <td>{{ athlete.pullups }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Grace</td>
+                                        <td>{{ athlete.grace }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Helen</td>
+                                        <td>{{ athlete.helen }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-2">
+                                <table class="table table-striped">
+                                    <h4>...</h4>
+                                    <tbody>
+                                    <tr>
+                                        <td>Filthy 50</td>
+                                        <td>{{ athlete.filthy50 }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fran</td>
+                                        <td>{{ athlete.fran }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>400m Run</td>
+                                        <td>{{ athlete.run400 }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5k Run</td>
+                                        <td>{{ athlete.run5k }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2"> <!--col-md-offset-5">-->
+                <form method="POST" action="/insight">
+                    <dl>
+                        {{ wtf.quick_form(form)}}
+
+                        <input class="btn btn-primary" type="submit" value="Update">
+                    </dl>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+
+    {% for val in vals %}
+    <div class="row">
+        <div>
+            <div class="col-md-12">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">{{ val.year }}.{{ val.stage }} Scores</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <table class="table table-striped">
+
+                                    <h4>Athlete Results</h4>
+                                    <thead>
+
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>Score</td>
+                                        <td>{{ val.stats.athlete_score }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Rank</td>
+                                        <td>{{ val.stats.athlete_rank }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Percentile</td>
+                                        <td>{{ val.stats.athlete_percentile }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-2">
+                                <table class="table table-striped">
+
+                                    <h4>Statistics</h4>
+                                    <thead>
+
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>Mean</td>
+                                        <td>{{ val.stats.mean_score }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Median</td>
+                                        <td>{{ val.stats.median_score }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>High</td>
+                                        <td>{{ val.stats.max_score }}</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="vis{{ val.year }}{{ val.stage }}"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+
+
+</div>
+
+
+<!--<div class="row">-->
+<!--<hr>-->
+<!--<p class="small text-muted">Built with &#9829; by Kevin Balkoski</p>-->
+<!--</div>-->
+
+
+<script>
+
+          {% for val in vals %}
+          var vlSpec = {{ val.chart|tojson }};
+          var embedSpec = {
+            mode: "vega-lite",  // Instruct Vega-Embed to use the Vega-Lite compiler
+            spec: vlSpec,
+            actions: false
+            // You can add more vega-embed configuration properties here.
+            // See https://github.com/vega/vega/wiki/Embed-Vega-Web-Components#configuration-propeties for more information.
+          };
+          vg.embed("#vis{{ val.year }}{{ val.stage }}", embedSpec, function(error, result) {});
+          {% endfor %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+{% endblock %}
+

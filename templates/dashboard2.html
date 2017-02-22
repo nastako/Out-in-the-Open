@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<div class="container-fluid">
+
+
+    <div class="col-sm-12">
+        <h1 class="page-header">Out in the Open Dashboard</h1>
+    </div>
+
+    <div class="row">
+
+        {% for stage in stages %}
+        <div class="col-md-6">
+            <div class="chart-wrapper">
+                <div class="chart-title">
+                    {{ years[loop.index-1] }}.{{ stage }} Scores
+                </div>
+                <div class="chart-stage">
+                    <div id="vis{{ years[loop.index-1] }}{{ stage }}"></div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+    <hr>
+    <p class="small text-muted">Built with &#9829; by Kevin Balkoski</p>
+
+
+</div>
+
+
+<script>
+          {% for chart in all_charts %}
+          var vlSpec = {{ chart|tojson }};
+            var embedSpec = {
+            mode: "vega-lite",  // Instruct Vega-Embed to use the Vega-Lite compiler
+            spec: {{ chart|tojson }},
+            actions: true
+            // You can add more vega-embed configuration properties here.
+            // See https://github.com/vega/vega/wiki/Embed-Vega-Web-Components#configuration-propeties for more information.
+          };
+          vg.embed("#vis{{ years[loop.index-1] }}{{ stages[loop.index-1] }}", embedSpec, function(error, result) {});
+          {% endfor %}
+
+</script>
+{% endblock %}
+

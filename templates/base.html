@@ -1,0 +1,85 @@
+{# ``base.html`` is the template all our other templates derive from. While
+   Flask-Bootstrap ships with its own base, it is good form to create a custom
+   one for our app, as it allows customizing some aspects.
+
+   Deriving from bootstap/base.html gives us a basic page scaffoling.
+
+   You can find additional information about template inheritance at
+
+   http://jinja.pocoo.org/docs/templates/#template-inheritance
+#}
+{%- extends "bootstrap/base.html" %}
+
+
+{# We also set a default title, usually because we might forget to set one.
+   In our sample app, we will most likely just opt not to change it #}
+{% block title %}Out in the Open{% endblock %}
+
+{# While we are at it, we also enable fixes for legacy browsers. First we
+   import the necessary macros: #}
+{% import "bootstrap/fixes.html" as fixes %}
+
+{# Then, inside the head block, we apply these. To not replace the header,
+   ``super()`` is used: #}
+{% block head %}
+{{super()}}
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://vega.github.io/vega/vega.js"></script>
+    <script src="https://vega.github.io/vega-lite/vega-lite.js"></script>
+    <script src="https://vega.github.io/vega-editor/vendor/vega-embed.js" charset="utf-8"></script>
+
+{#- Docs: http://pythonhosted.org/Flask-Bootstrap/macros.html#fixes
+   The sample application already contains the required static files. #}
+{{fixes.ie8()}}
+{%- endblock %}
+
+{# Adding our own CSS files is also done here. Check the documentation at
+   http://pythonhosted.org/Flask-Bootstrap/basic-usage.html#available-blocks
+   for an overview. #}
+{% block styles -%}
+    {{super()}}  {# do not forget to call super or Bootstrap's own stylesheets
+                    will disappear! #}
+
+    <!--<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='lib/css/bootstrap.min.css')}}">-->
+    <!--<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='lib/css/keen-dashboards.css')}}">-->
+    <!--<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='lib/css/dc.css')}}">-->
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/custom.css')}}">
+
+
+
+{% endblock %}
+
+
+
+{# Finally, round things out with navigation #}
+{% block navbar %}
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed" data-target="#f8f02fb236f7273517fede35d38f03bf1926fe6c" data-toggle="collapse" type="button">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!--<a class="navbar-brand" href="/index">Out in the Open</a>-->
+      <a class="navbar-brand" href="/index">
+          <img src="/static/img/logo.png" alt="Out in the Open" width="15%" >
+      </a>
+    </div>
+    <div class="navbar-collapse collapse" id="f8f02fb236f7273517fede35d38f03bf1926fe6c">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="/dashboard" title="Main Dashboard">Main Dashboard</a>
+        </li>
+        <li>
+          <a href="/insight" title="Personal Insights">Personal Insights</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+{% endblock %}
+
+
